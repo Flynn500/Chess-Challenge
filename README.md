@@ -1,4 +1,10 @@
 # Chess Coding Challenge (C#)
+This is my attempt at the tiny Chessbot challenge, My bot can be found in "Chess-Challenge/src/My Bot/MyBot.cs". Sebastian provideded the .NET application that has the GUI for this challenge along with several helper functions and objects.
+
+
+original readme below
+
+
 Welcome to the [chess coding challenge](https://youtu.be/iScy18pVR58)! This is a friendly competition in which your goal is to create a small chess bot (in C#) using the framework provided in this repository.
 Once submissions close, these bots will battle it out to discover which bot is best!
 
